@@ -8,7 +8,7 @@ L’idea è quella di simulare un piccolo coach digitale che suggerisce esercizi
 L’app permette di:
 
 - generare un allenamento in base agli attrezzi disponibili
-- utilizzare una chat semplice per interagire con il coach
+- utilizzare una chat semplice per interagire con il coach (il chatbot)
 - visualizzare gli esercizi sotto forma di schede
 - tenere traccia delle serie completate
 - usare un timer di recupero tra una serie e l’altra
